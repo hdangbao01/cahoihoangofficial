@@ -139,7 +139,7 @@ html {
    position: relative;
    margin-top: 47px;
    padding-top: 46%;
-   background: url('./assets/img/chh4.jpg') bottom center / cover no-repeat;
+   background: url('../img/chh4.jpg') bottom center / cover no-repeat;
 }
 
 .slider .slider-text {
