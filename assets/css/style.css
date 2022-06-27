@@ -139,7 +139,7 @@ html {
    position: relative;
    margin-top: 47px;
    padding-top: 46%;
-   background: url('/assets/img/chh4.jpg') bottom center / cover no-repeat;
+   background: url('./assets/img/chh4.jpg') bottom center / cover no-repeat;
 }
 
 .slider .slider-text {
@@ -490,6 +490,10 @@ html {
 @media (max-width: 549px) {
    .album .album-item {
       width: 100%;
+   }
+   
+   .album-item .album-about .album-btn {
+      width: 100%;  
    }
 }
 
